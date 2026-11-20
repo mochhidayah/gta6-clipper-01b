@@ -1,8 +1,8 @@
 # GTA 6 IS HERE — Vice City Boat Chase
 
 [![GTA 6 Clipper](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01)
-[![Rank](https://make.fun/badge/gta6-clipper-01/mochhidayah/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01)
-[![Reward](https://make.fun/badge/gta6-clipper-01/mochhidayah/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01)
+[![Rank](https://make.fun/badge/gta6-clipper-01/mochhidayah/gta6-clipper-01b/rank.svg)](https://make.fun/bounty/gta6-clipper-01)
+[![Reward](https://make.fun/badge/gta6-clipper-01/mochhidayah/gta6-clipper-01b/reward.svg)](https://make.fun/bounty/gta6-clipper-01)
 
 A 30-second vertical Short cut from Rockstar's official GTA VI Trailer 2:
 the finale run — jet ski jump, Jason on the bike, Lucia's convertible
